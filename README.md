@@ -1,7 +1,9 @@
-<h1 align="center">Olá, eu sou o João Victor</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Jo%C3%A3o%20Victor&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+</p>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> | .NET · TypeScript · Python
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;.NET+%C2%B7+TypeScript+%C2%B7+Python;Salvador+-+BA%2C+Brasil" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +16,7 @@
 
 ### Sobre mim
 
-Desenvolvedor Full Stack com experiência em sistemas corporativos de grande porte, atuando atualmente na **CAIXA Econômica Federal**. Vivência sólida no stack **.NET (C#)**, **TypeScript**, **Angular** e **SQL Server** para aplicações web robustas, complementada por **Python** para automação e integrações. Pratico **SOLID** e **MVC** para código limpo, escalável e de fácil manutenção.
+Desenvolvedor Full Stack com experiência em sistemas corporativos de grande porte, atuando atualmente nos projetos da **CAIXA Econômica Federal**. Vivência sólida no stack **.NET (C#)**, **TypeScript**, **Angular** e **SQL Server** para aplicações web robustas, complementada por **Python** para automação e integrações. Pratico **SOLID** e **MVC** para código limpo, escalável e de fácil manutenção.
 
 - Analista de Sistemas Jr — Desenvolvedor Full Stack @ **CAIXA Econômica Federal** (via Contax)
 - Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas — **Uninassau**
@@ -23,20 +25,17 @@ Desenvolvedor Full Stack com experiência em sistemas corporativos de grande por
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,angular,react,js,html,css,bootstrap&perline=6" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,azure,aws,docker,git,github,gitlab,postman,figma,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,angular,react,js,html,css,bootstrap,mysql,postgres,azure,aws,docker,git,github,gitlab,postman,figma,vscode&perline=21" />
 </p>
 
 Além do que os ícones mostram, também tenho prática com: **SQL Server**, **Dapper**, **Modelagem Relacional**, **Query Optimization**, **Webhooks**, **Integração de APIs**, **Automação de Processos**, **CI/CD**, **MVC**, **SOLID**, **Clean Code**, **RESTful API Design**, **Git Flow** e **Power BI**.
 
 ---
 
-### 📌 Projetos em destaque
+### Projetos em destaque
 
 #### [Giro Rápido](https://github.com/menesesthdev) — Plataforma SaaS para Lavanderias
 Plataforma SaaS multi-tenant para franqueados operarem lavanderias self-service 100% autônomas: o cliente se identifica no totem, escolhe a máquina e inicia o ciclo, com débito automático de créditos.
