@@ -1,16 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Jo%C3%A3o%20Victor&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;.NET+%C2%B7+TypeScript+%C2%B7+Python;Salvador+-+BA%2C+Brasil" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/joaovdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:menesesthcompany@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Salvador--BA-Brasil-009c3b?style=for-the-badge" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&height=130&lines=%24+whoami;Jo%C3%A3o+Victor+Meneses+dos+Santos+Caldas;%24+cat+role.txt;Desenvolvedor+Full+Stack+%7C+.NET+%C2%B7+TypeScript+%C2%B7+Python;%24+echo+%24LOCATION;Salvador+-+BA%2C+Brasil" alt="Terminal" /> </p> <p align="center"> <a href="https://linkedin.com/in/joaovdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:menesesthcompany@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <img src="https://img.shields.io/badge/Salvador--BA-Brasil-009c3b?style=for-the-badge" /> </p>
 
 ---
 
