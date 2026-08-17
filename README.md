@@ -14,7 +14,7 @@
 
 ### Sobre mim
 
-Desenvolvedor Full Stack com experiência em sistemas corporativos de grande porte, atuando atualmente na **CAIXA Econômica Federal** (via Contax). Vivência sólida no stack **.NET (C#)**, **TypeScript**, **Angular** e **SQL Server** para aplicações web robustas, complementada por **Python** para automação e integrações. Pratico **SOLID** e **MVC** para código limpo, escalável e de fácil manutenção.
+Desenvolvedor Full Stack com experiência em sistemas corporativos de grande porte, atuando atualmente na **CAIXA Econômica Federal**. Vivência sólida no stack **.NET (C#)**, **TypeScript**, **Angular** e **SQL Server** para aplicações web robustas, complementada por **Python** para automação e integrações. Pratico **SOLID** e **MVC** para código limpo, escalável e de fácil manutenção.
 
 - Analista de Sistemas Jr — Desenvolvedor Full Stack @ **CAIXA Econômica Federal** (via Contax)
 - Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas — **Uninassau**
@@ -26,13 +26,13 @@ Desenvolvedor Full Stack com experiência em sistemas corporativos de grande por
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,dapper,ts,angular,react,js,html,css,bootstrap&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,angular,react,js,html,css,bootstrap&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,azure,aws,docker,git,github,gitlab,postman,figma,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,azure,aws,docker,git,github,gitlab,postman,figma,vscode&perline=6" />
 </p>
 
-Além do que os ícones mostram, também tenho prática com: **Modelagem Relacional**, **Query Optimization**, **Webhooks**, **Integração de APIs**, **Automação de Processos**, **CI/CD**, **MVC**, **SOLID**, **Clean Code**, **RESTful API Design**, **Git Flow** e **Power BI**.
+Além do que os ícones mostram, também tenho prática com: **SQL Server**, **Dapper**, **Modelagem Relacional**, **Query Optimization**, **Webhooks**, **Integração de APIs**, **Automação de Processos**, **CI/CD**, **MVC**, **SOLID**, **Clean Code**, **RESTful API Design**, **Git Flow** e **Power BI**.
 
 ---
 
@@ -55,19 +55,6 @@ Simulado do exame Microsoft Azure Fundamentals que replica a experiência real d
 - Clean Architecture com DDD leve e testes unitários (xUnit) em Domain e Application desde a primeira etapa
 - Autenticação própria (sem ASP.NET Identity): cookies, OAuth/OIDC (Google, GitHub, LinkedIn) e hash PBKDF2-HMAC-SHA256
 - Proteção contra força bruta em duas camadas e geração de QR Code Pix no servidor, validada contra o manual do BR Code do Banco Central
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menesesthdev&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menesesthdev&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menesesthdev&layout=compact&theme=radical" />
-</p>
 
 ---
 
